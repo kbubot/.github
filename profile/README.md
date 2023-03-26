@@ -12,9 +12,9 @@
 마일리지 기능의 경우, 오프라인 사용처에서만 확인할 수 있었지만, 이를 온라인상에 확인함으로써 교내 재학생들의 큰 호응을 얻었습니다.
 ```
 
-## 연관 레포지토리
+## [스크래핑 API](https://github.com/rekyungmin/biblebot-scraper)
 
-[스크래핑 API 바로가기](https://github.com/rekyungmin/biblebot-scraper)
+링크를 확인해주세요.
 
 ## 수상
 
